@@ -1,4 +1,4 @@
-# React js 😎
+# Food Ordering App using React js 😎
 
 # Parcel
 - Dev build
